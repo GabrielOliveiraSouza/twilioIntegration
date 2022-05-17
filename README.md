@@ -1,1 +1,1 @@
-API utilizando java + spring boot + python onde o objetivo é mostrar os jogos do dia com atualização em tempo real
+API utilizando java + spring boot + python onde o objetivo é mostrar os jogos do dia com atualização em tempo real, onde em versões futuras será integrada com a twilio
